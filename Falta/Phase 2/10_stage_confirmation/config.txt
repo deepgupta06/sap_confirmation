@@ -1,0 +1,9 @@
+{
+"data_file_path": r"Data",
+"sap_id":"subha.fra3",
+"sap_pw":"vsl@123456",
+"sap_connection":"VSL HANA PRD",
+"current_el_line":"EL1",
+"all_el_line":["EL1", "EL2"],
+"timedelay":.5
+}
