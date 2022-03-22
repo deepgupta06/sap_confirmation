@@ -1,0 +1,9 @@
+{
+"data_file_path": r"Data",
+"sap_id":"sudip.fra4",
+"sap_pw":"vsl@2022",
+"sap_connection":"VSL_HANA_PRD",
+"current_framing_line":"f2",
+"all_framing_line":["f1", "f2"],
+"timedelay":.5
+}
